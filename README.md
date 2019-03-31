@@ -26,7 +26,7 @@
 中国法院网    https://www.chinacourt.org
 二、案例检索
 中国裁判文书网      http://wenshu.court.gov.cn (官方，但是性能极差)
-聚法案例 https://www.jufaanli.com    (免费，用户体验有点差)
+聚法案例 https://www.jufaanli.com    (免费，性能不错，就是用户体验有点差)
 北大法宝网 http://www.pkulaw.com 
 威科先行法律咨询网 http://law.wkinfo.com.cn 无讼 https://www.itslaw.com
 三、诉讼服务
